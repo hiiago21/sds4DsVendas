@@ -11,8 +11,8 @@ function Home() {
       <br />
       <div className="container">
         <div className="jumbotron">
-          <h1 className="display-4">CrossFitness</h1>
-          <p className="lead">CrossFitness Client Dashboard</p>
+          <h1 className="display-4">Sales Dashboard</h1>
+          <p className="lead">Control Client Dashboard</p>
           <br />
           <hr />
           <p>Dashboard seed comes from Spring boot Postgress tools</p>
